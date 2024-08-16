@@ -1,3 +1,18 @@
+# What is this???
+
+Here you can download EPG for US and UK channels collected from the site tvpassport.com
+
+# How to use?
+
+Add link to your EPG source and enjoy. Fully compatible for channels taken from https://iptv-org.github.io/
+```sh
+https://github.com/boogabooga841/WORKING-AUTO-EPG/releases/download/xml/guide.xml.gz
+```
+
+# How often is the TV program updated?
+
+The electronic program guide is updated daily and contains a program schedule for 7 days in advance.
+
 # EPG
 
 Tools for downloading the EPG (Electronic Program Guide) for thousands of TV channels from hundreds of sources.
