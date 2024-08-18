@@ -1,12 +1,12 @@
 # What is this???
 
-Here you can download EPG for US and UK channels collected from the site tvpassport.com
+Here you can download EPG for CHINA channels
 
 # How to use?
 
 Add link to your EPG source and enjoy. Fully compatible for channels taken from https://iptv-org.github.io/
 ```sh
-https://github.com/boogabooga841/WORKING-AUTO-EPG/releases/download/xml/guide.xml.gz
+https://github.com/RonaldoLionelLevandovsky/CHINA-AUTO-EPG/releases/download/xml/guide.xml.gz
 ```
 
 # How often is the TV program updated?
